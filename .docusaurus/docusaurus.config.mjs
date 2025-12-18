@@ -7,9 +7,9 @@ export default {
   "title": "Physical AI & Humanoid Robotics",
   "tagline": "Bridging the gap between the digital brain and the physical body",
   "favicon": "img/favicon.ico",
-  "url": "https://github.com/BismaYousuf",
+  "url": "https://github.com/RabiaAfareed",
   "baseUrl": "/physical-ai-and-humanoid-robotics/",
-  "organizationName": "Bisma Yousuf",
+  "organizationName": "Rabia Fareed",
   "projectName": "physical-ai-and-humanoid-robotics",
   "onBrokenLinks": "warn",
   "i18n": {
@@ -21,7 +21,7 @@ export default {
     "localeConfigs": {}
   },
   "customFields": {
-    "apiUrl": "https://ai-rative-book-backend-production.up.railway.app",
+    "apiUrl": "web-production-15f63.up.railway.app",
     "apiKey": ""
   },
   "presets": [
