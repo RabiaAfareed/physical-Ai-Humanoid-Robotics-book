@@ -30,7 +30,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/BismaYousuf"
+          "editUrl": "https://github.com/Rabia"
         },
         "blog": false,
         "theme": {
@@ -83,7 +83,7 @@ export default {
           ]
         },
         {
-          "href": "https://github.com/BismaYousuf",
+          "href": "https://github.com/RabiaAfareed/",
           "label": "GitHub",
           "position": "right"
         }
@@ -110,12 +110,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Bisma Yousuf GitHub",
-              "href": "https://github.com/BismaYousuf"
+              "label": "Rabia Fareed GitHub",
+              "href": "https://github.com/RabiaAfareed/"
             },
             {
               "label": "LinkedIn",
-              "href": "https://www.linkedin.com/in/bisma-yousuf-52572b2b4/"
+              "href": "https://www.linkedin.com/in/rabia-fareed-b79a3b2b6/"
             }
           ]
         },
@@ -124,7 +124,7 @@ export default {
           "items": [
             {
               "label": "GitHub Repository",
-              "href": "https://github.com/BismaYousuf"
+              "href": "https://github.com/RabiaAfareed/"
             }
           ]
         }
